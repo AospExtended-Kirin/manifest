@@ -15,6 +15,10 @@
   <remote  name="aex-devices"
            fetch="https://github.com/AospExtended-Devices" 
            revision="refs/heads/9.x" />
+  
+  <remote  name="kirin"
+           fetch="https://github.com/AospExtended-Kirin"
+           revision="refs/heads/9.x" />
 
   <remote  name="los"
            fetch="https://github.com/LineageOS"

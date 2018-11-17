@@ -123,4 +123,5 @@
   <remove-project name="platform/bootable/recovery" />
   <remove-project name="platform/build" />
   <remove-project name="platform/build/soong" />
+  <remove-project name="platform/packages/services/Telephony" />
 </manifest>
